@@ -1,0 +1,1 @@
+{"jobID":"9be305d3-d168-e042-ff0a-f6a557626956","spec":{"type":"policy","cause":{"Message":"","User":"kimpersson88 \u003ckimpersson88@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":null}}},"result":null}
